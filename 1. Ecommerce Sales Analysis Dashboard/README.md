@@ -1,31 +1,15 @@
-# Dashboard Preview
+# Ecommerce Sales Analysis Dashboard
 
 <img width="1433" alt="DashBoard Image" src="https://raw.githubusercontent.com/Gokul-Raja84/Data-Analysis-in-Excel/main/1.%20Ecommerce%20Sales%20Analysis%20Dashboard/DashBoard%20Image.png">
 
-# Ecommerce Sales Analysis Dashboard
+## Dataset Description
+The dataset contains sales and profit data from an e-commerce business, including transaction details such as product categories, subcategories, sales amounts, profits, and regional sales data by state.
 
-The **Ecommerce Sales Analysis Dashboard** project presents a thorough examination of sales and profit data within the e-commerce sector. All analysis and visualizations were conducted in Microsoft Excel, resulting in actionable insights and interactive dashboards.
+## What I Did
+- Analyzed **sales and profit trends** to understand overall business performance.
+- Examined **sales distribution across states** to identify regional patterns.
+- Evaluated **profitability by product categories and subcategories** to pinpoint high and low-profit areas.
+- Created **interactive Excel dashboards** featuring key metrics and visualizations such as pie charts and KPIs for quick insights.
 
-## Key Insights and Features
+This project provides actionable insights for data-driven decision-making in e-commerce through effective visualization and summary of sales and profit metrics.
 
-- **Sales & Profit Evaluation:**  
-  Comprehensive review of both sales and profit metrics, offering deep understanding of the business’s financial performance and profit generation for informed decision-making.
-
-- **Geographical Sales Breakdown:**  
-  Analytical visualization of sales figures across various states, revealing regional trends. These insights enable targeted marketing strategies and effective allocation of business resources.
-
-- **Profit Insights by Category:**  
-  Detailed exploration into product categories, helping to identify high-profit and low-profit segments. This information supports prioritization and strategic focus on the most profitable categories.
-
-- **Top Subcategories by Sales:**  
-  Identification and presentation of the five leading subcategories by sales, highlighting the product groups that contribute most to overall revenue.
-
-- **Sales Distribution Visualization:**  
-  Easy-to-understand pie charts illustrating the spread of sales across major categories, providing a clear overview of category share.
-
-- **Comprehensive KPI Dashboard:**  
-  Integration of key performance indicators—sales, profit, quantity sold, order counts, and profit margins—into one interactive dashboard for a holistic business performance overview.
-
-## Project Impact
-
-This project demonstrates a robust, data-driven approach to decision-making in e-commerce. By optimizing sales and profit analyses and visualizations, it enables smarter marketing, improved profitability, and clearer identification of market trends. These dashboards lay a solid foundation for ongoing, insight-driven business strategy.
